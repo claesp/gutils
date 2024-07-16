@@ -1,3 +1,3 @@
-module github.com/claesp/gdu/cmd/gdu
+module github.com/claesp/gdu
 
 go 1.20
